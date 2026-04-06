@@ -225,9 +225,3 @@ Deploying .Net Microservices into <h>Kubernetes</b> and moving deployments to th
 
 <hr>
 
-# Authors
-<ul>
-  <li>
-    Mohammad Khalesi - <a href="https://github.com/mkhalesi">Mkhalesi</a>
-  </li>
-</ul>
